@@ -66,3 +66,7 @@ cor.test(eba$diametro, eba$altura)
 
 
 
+
+
+
+
