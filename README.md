@@ -20,3 +20,4 @@ Repositorio del curso de Métodos Estadísticos Agosto 2024 del programa de Inge
 + Semana 16: Script 10: ANOVA y Tukey.
 + Semana 17: Sin clase.
 + Semana 18: Examen final (ANOVA y Tukey)
+![Commits over time](https://github.com/user-attachments/assets/fd6e82d5-ed69-4807-99e6-1a7fd11170d1)
