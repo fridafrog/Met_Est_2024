@@ -13,8 +13,8 @@ Repositorio del curso de Métodos Estadísticos Agosto 2024 del programa de Inge
 + Semana 9: Comparación de muestras dependientes/independientes.
 + Semana 10: Primer examen parcial.
 + Semana 11: Script 6: Pruebas T (alternative = less, greater).
-+ Semana 12: Script 7: Datos especie pseudostrobus.
-+ Semana 13: Script 8: Correlación.
++ Semana 12: Script 7: Correlación.
++ Semana 13: Script 8: Datos especie pseudostrobus.
 + Semana 14: Script 9: Regresión lineal.
 + Semana 15: Segundo examen parcial.
 + Semana 16: Script 10: ANOVA y Tukey.
